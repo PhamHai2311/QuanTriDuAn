@@ -1,0 +1,39 @@
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\bin\Debug\QuanLyMotor.exe.config
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\bin\Debug\QuanLyMotor.exe
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\bin\Debug\QuanLyMotor.pdb
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.Login.resources
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.exe
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.pdb
+C:\Users\Administrator\Desktop\.NET advance\QuanLyMotor\QuanLyMotor\obj\Debug\QuanLyMotor.Manager.resources
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\bin\Debug\QuanLyMotor.exe.config
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\bin\Debug\QuanLyMotor.exe
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\bin\Debug\QuanLyMotor.pdb
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.Login.resources
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.Manager.resources
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.exe
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.pdb
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.Admin.resources
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.Staff.resources
+C:\Users\Administrator\Desktop\CNPM\QuanLyMotor\obj\Debug\QuanLyMotor.CheckAdmin.resources
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.AssemblyReference.cache
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.SuggestedBindingRedirects.cache
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.Admin.resources
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.CheckAdmin.resources
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.Login.resources
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.Manager.resources
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.Properties.Resources.resources
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.Staff.resources
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.GenerateResource.cache
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.csproj.CoreCompileInputs.cache
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.exe
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\obj\Debug\QuanLyMotor.pdb
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\bin\Debug\QuanLyMotor.exe.config
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\bin\Debug\QuanLyMotor.exe
+F:\Dữ liệu cũ\Documents\Desktop\CNPM\packages\[D14QTANM2].Phạm Thanh Hải - 19810320432\QuanLyMotor\bin\Debug\QuanLyMotor.pdb
